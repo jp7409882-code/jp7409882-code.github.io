@@ -45,6 +45,17 @@ var circles = [ ]
 
 
         // TODO 3 : Call the drawCircle() function
+        drawCircle()
+
+drawCircle()
+
+drawCircle()
+
+drawCircle()
+
+drawCircle()
+
+
 
 
 
